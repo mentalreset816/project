@@ -1,0 +1,33 @@
+* {
+
+}
+
+.navbar {
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color:seagreen;
+}
+
+
+.nav__logo {  
+  color: aliceblue;
+  font-size: 20px;  
+}
+
+ul {
+  list-style: none;
+  display:flex;  ;  
+}
+
+.nav__menu {  
+  display:flex;
+  justify-content: space-between;  
+}
+
+.section {
+  background-color: seagreen;
+  color: aliceblue;
+  
+}
